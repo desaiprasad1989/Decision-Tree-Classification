@@ -68,8 +68,4 @@ The Heart Disease dataset is a multiclass classification problem, The dataset is
   	<td>target [0=no heart disease: classify the data distribution based on the data as bwlow
 1,2,3,4 = stages of heart disease ]</td>
   </tr>
-</table>,2,3,4 = stages of heart disease ]</td>
-  </tr>
-</table> </tr>
 </table>
-
